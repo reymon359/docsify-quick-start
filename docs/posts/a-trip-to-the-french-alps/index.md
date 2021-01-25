@@ -1,4 +1,4 @@
----
+<!--
 id: 'a-trip-to-the-french-alps'
 title: 'A trip to the French Alps'
 description: 'Trip to the French Alps, Lyon, Chamonix Mont-Blanc, and Turin.'
@@ -11,7 +11,7 @@ commentsUrl: https://github.com/reymon359/gatsby-personal-site/issues/195
 featuredImage: './alps_view_from_aiguille_du_midi.jpg'
 type: 'post'
 url: 'none'
----
+-->
 
 A month ago we drove ahead to the French Alps and visited Lyon, Chamonix Mont-Blanc, and Turin. We were not sure if we would be able to do this trip given the current COVID situation, so we booked accommodations just a week before. In the end, everything went fine though we had to adapt to the _new normality_ rules like wearing a mask and keeping one's distance.
 
